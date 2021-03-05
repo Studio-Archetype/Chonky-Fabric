@@ -1,0 +1,12 @@
+{
+  "category.chonky.keybinds": "Chonky",
+
+  "gui.chonky.debug.title": "Chonky Debug",
+  "gui.chonky.debug.tile.coords": "Chunk %d | %d",
+  "gui.chonky.debug.tile.status": "Status: %s",
+  "gui.chonky.debug.tile.state.missing": "Missing!",
+  "gui.chonky.debug.tile.state.processing": "Processing...",
+  "gui.chonky.debug.tile.state.ok": "Available",
+
+  "key.chonky.debug.open_gui": "Open Debug GUI"
+}

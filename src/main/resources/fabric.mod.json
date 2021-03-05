@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "chonky",
+  "version": "${version}",
+  "name": "Chonky",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/chonky/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [ "studio.archetype.chonky.Chonky" ],
+    "client": [ "studio.archetype.chonky.client.ChonkyClient" ]
+  },
+  "mixins": [ "chonky.mixins.json" ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
